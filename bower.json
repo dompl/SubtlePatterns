@@ -1,0 +1,17 @@
+{
+  "name": "SubtlePatterns",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dompl/SubtlePatterns",
+  "authors": [
+    "Dominik <info@redfrogstudio.co.uk>"
+  ],
+  "description": "Patter Images",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
